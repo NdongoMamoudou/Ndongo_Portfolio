@@ -1,0 +1,51 @@
+/* Structure générale */
+header {
+    position: relative;
+    height: 100vh;
+    /* Pleine hauteur de la fenêtre */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* Séparation entre le haut et le bas */
+}
+
+.navigation-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Style des icônes */
+.social-icons {
+    display: flex;
+    gap: 15px;
+    /* Espace entre les icônes */
+}
+
+/* Centrage du texte au bas */
+.text-container {
+    text-align: center;
+    margin-bottom: 2rem;
+    /* Distance du texte du bas de l'écran */
+}
+
+/* Adapation mobile */
+@media (max-width: 768px) {
+    .navigation-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .nav-links ul {
+        display: flex;
+        gap: 10px;
+        padding: 0;
+    }
+
+    .social-icons {
+        margin-top: 1rem;
+    }
+}
