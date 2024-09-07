@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio d'analyse de données de Mamoudou Ndongo</title>
+    <link>https://ndongomamoudou.github.io/Ndongo_Portfolio/</link>
+    <description>Contenu récent dans le portfolio d'analyse de données de Mamoudou Ndongo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Jeu, 26 Septembre 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ndongomamoudou.github.io/Ndongo_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Suivi des prix Amazon</title>
+      <link>https://ndongomamoudou.github.io/Ndongo_Portfolio/post/amazon_price_scrapper/</link>
+      <pubDate>Jeu, 26 Septembre 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ndongomamoudou.github.io/Ndongo_Portfolio/post/amazon_price_scrapper/</guid>
+      <description>Ce projet personnel consiste à construire un scrapper de prix Amazon avec Python pour suivre les prix des articles spécifiques. Le script envoie des alertes par e-mail lorsque le prix atteint un seuil cible défini par l'utilisateur.</description>
+    </item>
+    
+    <item>
+      <title>Web Scrapper Yahoo Finance</title>
+      <link>https://ndongomamoudou.github.io/Ndongo_Portfolio/post/yahoo_fin_web_scrapper/</link>
+      <pubDate>Ven, 30 Septembre 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ndongomamoudou.github.io/Ndongo_Portfolio/post/yahoo_fin_web_scrapper/</guid>
+      <description>Ce projet de scrapper Yahoo Finance en Python a été développé pour obtenir les prix des actions de manière automatisée afin de faciliter l'analyse financière des entreprises. Cela a permis d'automatiser le processus d'extraction des données boursières.</description>
+    </item>
+    
+    <item>
+      <title>Systèmes de recommandation de films</title>
+      <link>https://ndongomamoudou.github.io/Ndongo_Portfolio/post/movie_recommendation/</link>
+      <pubDate>Lun, 26 Octobre 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ndongomamoudou.github.io/Ndongo_Portfolio/post/movie_recommendation/</guid>
+      <description>Projet réalisé pour mon mémoire de Master, visant à construire un système de recommandation de films basé sur des algorithmes de machine learning, similaires à ceux utilisés par des entreprises comme Amazon, Netflix et Spotify pour prédire les préférences des utilisateurs.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ndongomamoudou.github.io/Ndongo_Portfolio/contact/</link>
+      <pubDate>Lun, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ndongomamoudou.github.io/Ndongo_Portfolio/contact/</guid>
+      <description>Suivez-moi sur ces plateformes de médias sociaux.
+   Plateformes : 
+   
+- Linkedin : https://www.linkedin.com/in/mamoudou-ndongo/
+   - Github : https://github.com/NdongoMamoudou
+   - Portfolio : https://ndongomamoudou.github.io/Ndongo_Portfolio/</description>
+    </item>
+    
+  </channel>
+</rss>
